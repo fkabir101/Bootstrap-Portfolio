@@ -1,0 +1,10 @@
+.navbar-size-overide{
+  min-height: 80px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+.navbar-title{
+  background-color: #4aaaa5;
+  padding: 25px 2%;
+  margin-left: 60px;
+}
